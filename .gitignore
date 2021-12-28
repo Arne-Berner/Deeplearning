@@ -1,7 +1,8 @@
 /DingeTesten
 /DingeTesten.c
 /Programmieren
-/*.npy
+/Datasets
+*.npy
 DeepLearning/Datasets/bc_features_standard.npy
 DeepLearning/Datasets/bc_features.npy
 DeepLearning/Datasets/bc_labels.npy
